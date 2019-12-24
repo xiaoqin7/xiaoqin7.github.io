@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QinBLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-24T06:05:41.704Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>qin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>win10下安装Ubuntu双系统</title>
+    <link href="http://yoursite.com/2019/12/24/win10%E4%B8%8B%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9FUbuntu/"/>
+    <id>http://yoursite.com/2019/12/24/win10%E4%B8%8B%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9FUbuntu/</id>
+    <published>2019-12-23T17:30:44.969Z</published>
+    <updated>2019-12-24T06:05:41.704Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;win10下安装双系统Ubuntu&quot;&gt;&lt;a href=&quot;#win10下安装双系统Ubuntu&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+  </entry>
+  
+</feed>
