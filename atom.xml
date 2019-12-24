@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QinBLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-24T06:03:08.677Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>qin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2019/12/24/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/12/24/%E6%B5%8B%E8%AF%95/</id>
+    <published>2019-12-24T05:23:54.000Z</published>
+    <updated>2019-12-24T06:03:08.677Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;这是一个测试Blog&quot;&gt;&lt;a href=&quot;#这是一个测试Blog&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10下安装Ubuntu双系统</title>
+    <link href="http://yoursite.com/2019/12/24/win10%E4%B8%8B%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9FUbuntu/"/>
+    <id>http://yoursite.com/2019/12/24/win10%E4%B8%8B%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9FUbuntu/</id>
+    <published>2019-12-23T17:30:44.969Z</published>
+    <updated>2019-12-24T06:05:41.704Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;win10下安装双系统Ubuntu&quot;&gt;&lt;a href=&quot;#win10下安装双系统Ubuntu&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>整个博客都这么难,好feiwu啊</title>
+    <link href="http://yoursite.com/2019/12/16/%E6%95%B4%E4%B8%AA%E5%8D%9A%E5%AE%A2%E9%83%BD%E8%BF%99%E4%B9%88%E9%9A%BE-%E5%A5%BDfeiwu%E5%95%8A/"/>
+    <id>http://yoursite.com/2019/12/16/%E6%95%B4%E4%B8%AA%E5%8D%9A%E5%AE%A2%E9%83%BD%E8%BF%99%E4%B9%88%E9%9A%BE-%E5%A5%BDfeiwu%E5%95%8A/</id>
+    <published>2019-12-16T02:47:29.000Z</published>
+    <updated>2019-12-24T05:20:43.629Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;说明：原本安装的Ubuntu出现错误，没调通（尴尬）。重新安装一遍，回忆回忆。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;电脑：DELL灵越，自带100G的固态硬盘+1T的机械硬盘。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;磁盘格式：gpt  (  
+        
+      
+    
+    </summary>
+    
+    
+      <category term="搭建Blog" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BABlog/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>

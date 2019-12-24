@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试</title>
+    <url>/2019/12/24/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h3 id="这是一个测试Blog"><a href="#这是一个测试Blog" class="headerlink" title="这是一个测试Blog"></a>这是一个测试Blog</h3><p>我想知道为什么没有这个啊？</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>win10下安装Ubuntu双系统</title>
+    <url>/2019/12/24/win10%E4%B8%8B%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9FUbuntu/</url>
+    <content><![CDATA[<h2 id="win10下安装双系统Ubuntu"><a href="#win10下安装双系统Ubuntu" class="headerlink" title="win10下安装双系统Ubuntu"></a>win10下安装双系统Ubuntu</h2><p>说明：原本安装的Ubuntu出现错误，没调通（尴尬）。重新安装一遍，回忆回忆。</p>
+<ol>
+<li><p>电脑：DELL灵越，自带100G的固态硬盘+1T的机械硬盘。</p>
+</li>
+<li><p>磁盘格式：gpt  (</p>
+</li>
+</ol>
+<p>   ）</p>
+<h4 id="1-卸载原有的Ubuntu"><a href="#1-卸载原有的Ubuntu" class="headerlink" title="1.卸载原有的Ubuntu"></a>1.卸载原有的Ubuntu</h4><h5 id="采用的是直接格式化磁盘分区，然后删除启动项"><a href="#采用的是直接格式化磁盘分区，然后删除启动项" class="headerlink" title="采用的是直接格式化磁盘分区，然后删除启动项"></a>采用的是直接格式化磁盘分区，然后删除启动项</h5><p>管理    磁盘管理    磁盘1（我的1T机械硬盘，除了D、E两个都是Ubuntu的分区。）    除了EFI分区，其他的都可以删除（说这种方法存在问题，但是没有遇到）    EFI分区使用windows的deskpart删除</p>
+<p>修改启动项，用的是easy UEFI 工具（因为是gpt格式的）。将Ubuntu对应的启动项删除掉就行了，网上的命令式方法感觉太麻烦了。</p>
+<h4 id="2-重新安装Ubuntu"><a href="#2-重新安装Ubuntu" class="headerlink" title="2.重新安装Ubuntu"></a>2.重新安装Ubuntu</h4><p>​    </p>
+]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>整个博客都这么难,好feiwu啊</title>
+    <url>/2019/12/16/%E6%95%B4%E4%B8%AA%E5%8D%9A%E5%AE%A2%E9%83%BD%E8%BF%99%E4%B9%88%E9%9A%BE-%E5%A5%BDfeiwu%E5%95%8A/</url>
+    <content><![CDATA[<p>说明：原本安装的Ubuntu出现错误，没调通（尴尬）。重新安装一遍，回忆回忆。</p>
+<ol>
+<li><p>电脑：DELL灵越，自带100G的固态硬盘+1T的机械硬盘。</p>
+</li>
+<li><p>磁盘格式：gpt  (   ）</p>
+</li>
+</ol>
+<h4 id="1-卸载原有的Ubuntu"><a href="#1-卸载原有的Ubuntu" class="headerlink" title="1.卸载原有的Ubuntu"></a>1.卸载原有的Ubuntu</h4><h5 id="采用的是直接格式化磁盘分区，然后删除启动项"><a href="#采用的是直接格式化磁盘分区，然后删除启动项" class="headerlink" title="采用的是直接格式化磁盘分区，然后删除启动项"></a>采用的是直接格式化磁盘分区，然后删除启动项</h5><p>管理    磁盘管理    磁盘1（我的1T机械硬盘，除了D、E两个都是Ubuntu的分区。）    除了EFI分区，其他的都可以删除（说这种方法存在问题，但是没有遇到）    EFI分区使用windows的deskpart删除</p>
+<p>修改启动项，用的是easy UEFI 工具（因为是gpt格式的）。将Ubuntu对应的启动项删除掉就行了，网上的命令式方法感觉太麻烦了。</p>
+]]></content>
+      <categories>
+        <category>搭建Blog</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+</search>
